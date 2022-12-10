@@ -1,0 +1,19 @@
+{
+  "cwd": "C:\\Users\\welcome\\Desktop\\App",
+  "type": [
+    "web"
+  ],
+  "name": "App",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
